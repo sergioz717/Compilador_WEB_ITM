@@ -1,0 +1,270 @@
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\ApplicationInsights.config
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\webCompilador.dll.config
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\webCompilador.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\webCompilador.pdb
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\csc.exe
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\csc.exe.config
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\csc.rsp
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\csi.exe
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\csi.exe.config
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\csi.rsp
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.AppContext.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Collections.Immutable.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Console.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Diagnostics.Process.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.IO.Compression.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.IO.FileSystem.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.IO.Pipes.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Reflection.Metadata.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.AccessControl.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.Claims.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.Principal.Windows.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Threading.Thread.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.ValueTuple.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Xml.XmlDocument.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Xml.XPath.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\vbc.exe
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\vbc.exe.config
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\vbc.rsp
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\VBCSCompiler.exe
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\roslyn\VBCSCompiler.exe.config
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Antlr3.Runtime.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\AspNet.ScriptManager.bootstrap.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\AspNet.ScriptManager.jQuery.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.Agent.Intercept.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.DependencyCollector.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.Web.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.WindowsServer.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.ApplicationInsights.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.ScriptManager.WebForms.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.Web.Infrastructure.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Newtonsoft.Json.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\System.Diagnostics.DiagnosticSource.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\System.Web.Optimization.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\WebGrease.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\System.Web.Optimization.xml
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Newtonsoft.Json.xml
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Antlr3.Runtime.pdb
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\System.Diagnostics.DiagnosticSource.xml
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.DependencyCollector.xml
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.WindowsServer.xml
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.Web.xml
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\es\System.Web.Optimization.resources.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\obj\Debug\webCompilador.csprojAssemblyReference.cache
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\obj\Debug\webCompilador.csproj.CoreCompileInputs.cache
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\obj\Debug\webCompilador.csproj.CopyComplete
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\obj\Debug\webCompilador.dll
+E:\OneDrive - Personal\OneDrive\VisualStudio\Proy Compilador\webCompilador\webCompilador\obj\Debug\webCompilador.pdb
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\ApplicationInsights.config
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\webCompilador.dll.config
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\webCompilador.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\webCompilador.pdb
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\csc.exe
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\csc.exe.config
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\csc.rsp
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\csi.exe
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\csi.exe.config
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\csi.rsp
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.AppContext.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Console.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.IO.Compression.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.Claims.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.ValueTuple.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\vbc.exe
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\vbc.exe.config
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\vbc.rsp
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\VBCSCompiler.exe
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Antlr3.Runtime.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.Web.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Newtonsoft.Json.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\System.Web.Optimization.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\WebGrease.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\System.Web.Optimization.xml
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Newtonsoft.Json.xml
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Antlr3.Runtime.pdb
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.AI.Web.xml
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\obj\Debug\webCompilador.csprojAssemblyReference.cache
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\obj\Debug\webCompilador.csproj.CoreCompileInputs.cache
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\obj\Debug\webCompilador.csproj.CopyComplete
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\obj\Debug\webCompilador.dll
+C:\Users\Sergio\OneDrive\Proy Compilador\webCompilador\webCompilador\obj\Debug\webCompilador.pdb
+E:\VisualStudio\webCompilador\webCompilador\bin\ApplicationInsights.config
+E:\VisualStudio\webCompilador\webCompilador\bin\webCompilador.dll.config
+E:\VisualStudio\webCompilador\webCompilador\bin\webCompilador.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\webCompilador.pdb
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\csc.exe
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\csc.exe.config
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\csc.rsp
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\csi.exe
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\csi.exe.config
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\csi.rsp
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.AppContext.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Collections.Immutable.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Console.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Diagnostics.Process.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.IO.Compression.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.IO.FileSystem.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.IO.Pipes.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Reflection.Metadata.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Security.AccessControl.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Security.Claims.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Security.Principal.Windows.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Threading.Thread.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.ValueTuple.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Xml.XmlDocument.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Xml.XPath.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\vbc.exe
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\vbc.exe.config
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\vbc.rsp
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\VBCSCompiler.exe
+E:\VisualStudio\webCompilador\webCompilador\bin\roslyn\VBCSCompiler.exe.config
+E:\VisualStudio\webCompilador\webCompilador\bin\Antlr3.Runtime.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\AspNet.ScriptManager.bootstrap.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\AspNet.ScriptManager.jQuery.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AI.Agent.Intercept.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AI.DependencyCollector.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AI.Web.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AI.WindowsServer.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.ApplicationInsights.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.ScriptManager.WebForms.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.Web.Infrastructure.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\Newtonsoft.Json.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\System.Diagnostics.DiagnosticSource.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\System.Web.Optimization.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\WebGrease.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\System.Web.Optimization.xml
+E:\VisualStudio\webCompilador\webCompilador\bin\Newtonsoft.Json.xml
+E:\VisualStudio\webCompilador\webCompilador\bin\Antlr3.Runtime.pdb
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\VisualStudio\webCompilador\webCompilador\bin\System.Diagnostics.DiagnosticSource.xml
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AI.DependencyCollector.xml
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AI.WindowsServer.xml
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.AI.Web.xml
+E:\VisualStudio\webCompilador\webCompilador\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\VisualStudio\webCompilador\webCompilador\bin\es\System.Web.Optimization.resources.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+E:\VisualStudio\webCompilador\webCompilador\obj\Debug\webCompilador.csproj.CoreCompileInputs.cache
+E:\VisualStudio\webCompilador\webCompilador\obj\Debug\webCompilador.csproj.CopyComplete
+E:\VisualStudio\webCompilador\webCompilador\obj\Debug\webCompilador.dll
+E:\VisualStudio\webCompilador\webCompilador\obj\Debug\webCompilador.pdb
+E:\VisualStudio\webCompilador\webCompilador\obj\Debug\webCompilador.csprojAssemblyReference.cache
