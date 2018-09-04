@@ -1,0 +1,6 @@
+E:\VisualStudio\webCompilador\ctrlCompilador\bin\Debug\ctrlCompilador.dll
+E:\VisualStudio\webCompilador\ctrlCompilador\bin\Debug\ctrlCompilador.pdb
+E:\VisualStudio\webCompilador\ctrlCompilador\obj\Debug\ctrlCompilador.csprojAssemblyReference.cache
+E:\VisualStudio\webCompilador\ctrlCompilador\obj\Debug\ctrlCompilador.csproj.CoreCompileInputs.cache
+E:\VisualStudio\webCompilador\ctrlCompilador\obj\Debug\ctrlCompilador.dll
+E:\VisualStudio\webCompilador\ctrlCompilador\obj\Debug\ctrlCompilador.pdb

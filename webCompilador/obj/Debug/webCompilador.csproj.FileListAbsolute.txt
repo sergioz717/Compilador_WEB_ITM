@@ -268,3 +268,5 @@ E:\VisualStudio\webCompilador\webCompilador\obj\Debug\webCompilador.csproj.CopyC
 E:\VisualStudio\webCompilador\webCompilador\obj\Debug\webCompilador.dll
 E:\VisualStudio\webCompilador\webCompilador\obj\Debug\webCompilador.pdb
 E:\VisualStudio\webCompilador\webCompilador\obj\Debug\webCompilador.csprojAssemblyReference.cache
+E:\VisualStudio\webCompilador\webCompilador\bin\ctrlCompilador.dll
+E:\VisualStudio\webCompilador\webCompilador\bin\ctrlCompilador.pdb
